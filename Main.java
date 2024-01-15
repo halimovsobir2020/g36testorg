@@ -3,5 +3,6 @@ public class Main {
         System.out.println("salom");
         System.out.println("nima gap");
         System.out.println("changes by arslonbek");
+        System.out.println("codes by Abdusobur");
     }
 }
