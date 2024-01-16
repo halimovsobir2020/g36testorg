@@ -4,6 +4,6 @@ public class Main {
         System.out.println("codes 3by Abdusobur");
         System.out.println("changes by arslonbek");
         System.out.println("nima gap");
-        System.out.println("changed ");
+        System.out.println("changed12 ");
     }
 }
